@@ -7,6 +7,7 @@ This is README file to instruct the user how to build and run a solution to IoTe
 2. Once the repository has been cloned, run devices_reformating.py file on your terminal by running the command: 'python3 devices_reformating.py'
 
 After a successful run of the commands above, reformatted_data file is created with a solution of the IoTech Coding Exercise.
+(please notice that the file 'devices_reformating.py' has been run before it was pushed on GitHub, so a new created file (reformatted_data) with the solution to the problem has been pused as well)
 
 1. Data has been parsed from devices.json
 2. uuid has been extracted from 'Info' field
