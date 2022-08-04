@@ -4,7 +4,7 @@ This is README file to instruct the user how to build and run a solution to IoTe
     'git clone git@github.com:szWoj/IoTech_reformatted_data.git'
     on your terminal
 
-2. Once the repository has been cloned, run exercise.py file on your terminal by running the command: 'python3 devices_reformating.py'
+2. Once the repository has been cloned, run devices_reformating.py file on your terminal by running the command: 'python3 devices_reformating.py'
 
 After a successful run of the commands above, reformatted_data file is created with a solution of the IoTech Coding Exercise.
 
